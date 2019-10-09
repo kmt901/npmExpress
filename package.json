@@ -1,5 +1,5 @@
 {
-  "name": "lecture08",
+  "name": "npmexpress",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,8 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johntango/npmExpress.git"
+  },
+  "author": "john",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johntango/npmExpress/issues"
+  },
+  "homepage": "https://github.com/johntango/npmExpress#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
