@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johntango/npmExpress.git"
+    "url": "git+https://github.com/kmt901/npmExpress.git"
   },
   "author": "john",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/johntango/npmExpress/issues"
+    "url": "https://github.com/kmt901/npmExpress/issues"
   },
-  "homepage": "https://github.com/johntango/npmExpress#readme",
+  "homepage": "https://github.com/kmt901/npmExpress#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
